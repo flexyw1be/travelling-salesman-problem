@@ -23,3 +23,9 @@ def get_fitness(gene_list):
         fitness += LIST[gene_list[ind]][gene_list[ind + 1]]
     return fitness
 ```
+
+```
+# TODO:
+# funcs: merge and choice
+# make good print with count of epoch`s
+```
